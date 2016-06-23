@@ -1,0 +1,5 @@
+DHT11   
+https://brainy-bits.com/tutorials/dht11-tutorial/
+
+bloutooth
+https://brainy-bits.com/tutorials/arduino-bluetooth/
